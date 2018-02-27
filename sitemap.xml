@@ -73,13 +73,13 @@
   </url>
   
   <url>
-    <loc>https://theinternet.onthewifi.com/tags/development/</loc>
+    <loc>https://theinternet.onthewifi.com/categories/development/</loc>
     <lastmod>2015-05-24T18:53:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://theinternet.onthewifi.com/categories/development/</loc>
+    <loc>https://theinternet.onthewifi.com/tags/development/</loc>
     <lastmod>2015-05-24T18:53:17+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -91,13 +91,13 @@
   </url>
   
   <url>
-    <loc>https://theinternet.onthewifi.com/tags/golang/</loc>
+    <loc>https://theinternet.onthewifi.com/categories/golang/</loc>
     <lastmod>2015-05-24T18:53:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://theinternet.onthewifi.com/categories/golang/</loc>
+    <loc>https://theinternet.onthewifi.com/tags/golang/</loc>
     <lastmod>2015-05-24T18:53:17+02:00</lastmod>
     <priority>0</priority>
   </url>
