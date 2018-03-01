@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on The Internet</title>
-    <link>http://theinternet.onthewifi.com/post/</link>
-    <description>Recent content in Posts on The Internet</description>
+    <title>Beginner on The Internet</title>
+    <link>http://theinternet.onthewifi.com/tags/beginner/</link>
+    <description>Recent content in Beginner on The Internet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Mar 2018 13:02:10 +0000</lastBuildDate>
     
-	<atom:link href="http://theinternet.onthewifi.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://theinternet.onthewifi.com/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

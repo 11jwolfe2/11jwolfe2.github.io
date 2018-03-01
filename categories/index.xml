@@ -6,25 +6,26 @@
     <description>Recent content in Categories on The Internet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 01 Mar 2018 13:02:10 +0000</lastBuildDate>
     
 	<atom:link href="http://theinternet.onthewifi.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Development</title>
-      <link>http://theinternet.onthewifi.com/categories/development/</link>
-      <pubDate>Sun, 24 May 2015 18:53:17 +0200</pubDate>
+      <title>Beginner</title>
+      <link>http://theinternet.onthewifi.com/categories/beginner/</link>
+      <pubDate>Thu, 01 Mar 2018 13:02:10 +0000</pubDate>
       
-      <guid>http://theinternet.onthewifi.com/categories/development/</guid>
+      <guid>http://theinternet.onthewifi.com/categories/beginner/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Golang</title>
-      <link>http://theinternet.onthewifi.com/categories/golang/</link>
-      <pubDate>Sun, 24 May 2015 18:53:17 +0200</pubDate>
+      <title>Smart Home</title>
+      <link>http://theinternet.onthewifi.com/categories/smart-home/</link>
+      <pubDate>Thu, 01 Mar 2018 13:02:10 +0000</pubDate>
       
-      <guid>http://theinternet.onthewifi.com/categories/golang/</guid>
+      <guid>http://theinternet.onthewifi.com/categories/smart-home/</guid>
       <description></description>
     </item>
     

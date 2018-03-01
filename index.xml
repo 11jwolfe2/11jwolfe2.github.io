@@ -6,7 +6,7 @@
     <description>Recent content on The Internet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 May 2015 18:51:50 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 01 Mar 2018 13:41:50 +0200</lastBuildDate>
     
 	<atom:link href="http://theinternet.onthewifi.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,12 +14,12 @@
     <item>
       <title>About</title>
       <link>http://theinternet.onthewifi.com/about/</link>
-      <pubDate>Sun, 24 May 2015 18:51:50 +0200</pubDate>
+      <pubDate>Thu, 01 Mar 2018 13:41:50 +0200</pubDate>
       
       <guid>http://theinternet.onthewifi.com/about/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur?
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius praesentium recusandae illo eaque architecto error, repellendus iusto reprehenderit, doloribus, minus sunt. Numquam at quae voluptatum in officia voluptas voluptatibus, minus!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestiae debitis nobis, quod sapiente qui voluptatum, placeat magni repudiandae accusantium fugit quas labore non rerum possimus, corrupti enim modi!</description>
+      <description>Hello and thank you for being interested in my blog! In this blog I hope to explore many different topics that I am passionate about such as smart home devices, website design, electronics, and many others.
+If you have ideas on new topics I should cover please send me an email via my contact section.
+I will slowly be adding new blog posts over the begining of 2018, please bare with me as it will be slow going.</description>
     </item>
     
     <item>
@@ -41,93 +41,13 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestiae debi
     </item>
     
     <item>
-      <title>Building a theme with Hugo</title>
-      <link>http://theinternet.onthewifi.com/post/post-01/</link>
-      <pubDate>Sun, 24 May 2015 18:53:17 +0200</pubDate>
+      <title>Smart Home</title>
+      <link>http://theinternet.onthewifi.com/post/smarthome-beginners/</link>
+      <pubDate>Thu, 01 Mar 2018 13:02:10 +0000</pubDate>
       
-      <guid>http://theinternet.onthewifi.com/post/post-01/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Second post</title>
-      <link>http://theinternet.onthewifi.com/post/post-02/</link>
-      <pubDate>Sun, 24 May 2015 18:52:17 +0200</pubDate>
-      
-      <guid>http://theinternet.onthewifi.com/post/post-02/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Third post</title>
-      <link>http://theinternet.onthewifi.com/post/post-03/</link>
-      <pubDate>Sun, 24 May 2015 18:52:17 +0201</pubDate>
-      
-      <guid>http://theinternet.onthewifi.com/post/post-03/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fourth post</title>
-      <link>http://theinternet.onthewifi.com/post/post-04/</link>
-      <pubDate>Sun, 24 May 2015 18:52:17 +0202</pubDate>
-      
-      <guid>http://theinternet.onthewifi.com/post/post-04/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Five post</title>
-      <link>http://theinternet.onthewifi.com/post/post-05/</link>
-      <pubDate>Sun, 24 May 2015 18:52:17 +0204</pubDate>
-      
-      <guid>http://theinternet.onthewifi.com/post/post-05/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>post 06</title>
-      <link>http://theinternet.onthewifi.com/post/post-06/</link>
-      <pubDate>Sun, 24 May 2015 18:52:17 +0206</pubDate>
-      
-      <guid>http://theinternet.onthewifi.com/post/post-06/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>post 07</title>
-      <link>http://theinternet.onthewifi.com/post/post-07/</link>
-      <pubDate>Sun, 24 May 2015 18:52:17 +0207</pubDate>
-      
-      <guid>http://theinternet.onthewifi.com/post/post-07/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>post 08</title>
-      <link>http://theinternet.onthewifi.com/post/post-08/</link>
-      <pubDate>Sun, 24 May 2015 18:52:17 +0208</pubDate>
-      
-      <guid>http://theinternet.onthewifi.com/post/post-08/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>post 09</title>
-      <link>http://theinternet.onthewifi.com/post/post-09/</link>
-      <pubDate>Sun, 24 May 2015 18:52:17 +0209</pubDate>
-      
-      <guid>http://theinternet.onthewifi.com/post/post-09/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>post 10</title>
-      <link>http://theinternet.onthewifi.com/post/post-10/</link>
-      <pubDate>Sun, 24 May 2015 18:52:17 +0210</pubDate>
-      
-      <guid>http://theinternet.onthewifi.com/post/post-10/</guid>
-      <description></description>
+      <guid>http://theinternet.onthewifi.com/post/smarthome-beginners/</guid>
+      <description>So if you’re reading this article you might be thinking about changing your home to a smart home. So first let’s talk about what a smart home really is.
+First a smart home is not anything like the Disney Movie Smart House, it will not attack you, it will not do things you don’t ask for and it certainly will not try to make itself human. A smart home is a house that can perform easy everyday tasks automatically or with other input.</description>
     </item>
     
   </channel>
