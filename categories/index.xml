@@ -7,28 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Code released under the Apache 2.0 license.</copyright>
-    <lastBuildDate>Mon, 05 Mar 2018 14:36:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Mar 2018 13:02:10 +0000</lastBuildDate>
     
 	<atom:link href="https://theinternet.onthewifi.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>600</title>
-      <link>https://theinternet.onthewifi.com/categories/600/</link>
-      <pubDate>Mon, 05 Mar 2018 14:36:55 +0000</pubDate>
-      
-      <guid>https://theinternet.onthewifi.com/categories/600/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Beer</title>
-      <link>https://theinternet.onthewifi.com/categories/beer/</link>
-      <pubDate>Tue, 20 Mar 2018 14:36:55 +0000</pubDate>
-      
-      <guid>https://theinternet.onthewifi.com/categories/beer/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Beginner</title>
@@ -42,7 +24,7 @@
     <item>
       <title>Beginners</title>
       <link>https://theinternet.onthewifi.com/categories/beginners/</link>
-      <pubDate>Tue, 20 Mar 2018 14:36:55 +0000</pubDate>
+      <pubDate>Mon, 05 Mar 2018 14:36:55 +0000</pubDate>
       
       <guid>https://theinternet.onthewifi.com/categories/beginners/</guid>
       <description></description>
@@ -51,27 +33,9 @@
     <item>
       <title>Camera</title>
       <link>https://theinternet.onthewifi.com/categories/camera/</link>
-      <pubDate>Thu, 22 Mar 2018 14:36:55 +0000</pubDate>
-      
-      <guid>https://theinternet.onthewifi.com/categories/camera/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Home Brew</title>
-      <link>https://theinternet.onthewifi.com/categories/home-brew/</link>
-      <pubDate>Tue, 20 Mar 2018 14:36:55 +0000</pubDate>
-      
-      <guid>https://theinternet.onthewifi.com/categories/home-brew/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Integral Film</title>
-      <link>https://theinternet.onthewifi.com/categories/integral-film/</link>
       <pubDate>Mon, 05 Mar 2018 14:36:55 +0000</pubDate>
       
-      <guid>https://theinternet.onthewifi.com/categories/integral-film/</guid>
+      <guid>https://theinternet.onthewifi.com/categories/camera/</guid>
       <description></description>
     </item>
     
@@ -87,36 +51,18 @@
     <item>
       <title>One Step 2</title>
       <link>https://theinternet.onthewifi.com/categories/one-step-2/</link>
-      <pubDate>Thu, 22 Mar 2018 14:36:55 +0000</pubDate>
+      <pubDate>Mon, 05 Mar 2018 14:36:55 +0000</pubDate>
       
       <guid>https://theinternet.onthewifi.com/categories/one-step-2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Pack Film</title>
-      <link>https://theinternet.onthewifi.com/categories/pack-film/</link>
-      <pubDate>Mon, 05 Mar 2018 14:36:55 +0000</pubDate>
-      
-      <guid>https://theinternet.onthewifi.com/categories/pack-film/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Polaroid</title>
       <link>https://theinternet.onthewifi.com/categories/polaroid/</link>
-      <pubDate>Thu, 22 Mar 2018 14:36:55 +0000</pubDate>
+      <pubDate>Mon, 05 Mar 2018 14:36:55 +0000</pubDate>
       
       <guid>https://theinternet.onthewifi.com/categories/polaroid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Review</title>
-      <link>https://theinternet.onthewifi.com/categories/review/</link>
-      <pubDate>Thu, 22 Mar 2018 14:36:55 +0000</pubDate>
-      
-      <guid>https://theinternet.onthewifi.com/categories/review/</guid>
       <description></description>
     </item>
     
@@ -126,24 +72,6 @@
       <pubDate>Thu, 01 Mar 2018 13:02:10 +0000</pubDate>
       
       <guid>https://theinternet.onthewifi.com/categories/smart-home/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spectra</title>
-      <link>https://theinternet.onthewifi.com/categories/spectra/</link>
-      <pubDate>Mon, 05 Mar 2018 14:36:55 +0000</pubDate>
-      
-      <guid>https://theinternet.onthewifi.com/categories/spectra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sx 70</title>
-      <link>https://theinternet.onthewifi.com/categories/sx-70/</link>
-      <pubDate>Mon, 05 Mar 2018 14:36:55 +0000</pubDate>
-      
-      <guid>https://theinternet.onthewifi.com/categories/sx-70/</guid>
       <description></description>
     </item>
     
