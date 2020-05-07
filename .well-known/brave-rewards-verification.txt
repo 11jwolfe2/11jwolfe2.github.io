@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: theinternet.onthewifi.com
+Token: c8530602cc1ef5209de87ea0d8e23cbdbb214bd46d0188df93338b7ffbc215e3
