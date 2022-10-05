@@ -1,24 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home Brew on The Internet</title>
-    <link>https://theinternet.onthewifi.com/tags/home-brew/</link>
+    <link>https://jack-wolfe.com/tags/home-brew/</link>
     <description>Recent content in Home Brew on The Internet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Code released under the Apache 2.0 license.</copyright>
-    <lastBuildDate>Tue, 20 Mar 2018 14:36:55 +0000</lastBuildDate>
-    
-	<atom:link href="https://theinternet.onthewifi.com/tags/home-brew/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 20 Mar 2018 14:36:55 +0000</lastBuildDate><atom:link href="https://jack-wolfe.com/tags/home-brew/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Homebrewing 101</title>
-      <link>https://theinternet.onthewifi.com/post/brewing/beginners-guide/</link>
+      <link>https://jack-wolfe.com/post/brewing/beginners-guide/</link>
       <pubDate>Tue, 20 Mar 2018 14:36:55 +0000</pubDate>
       
-      <guid>https://theinternet.onthewifi.com/post/brewing/beginners-guide/</guid>
-      <description> Homebrewing 101 </description>
+      <guid>https://jack-wolfe.com/post/brewing/beginners-guide/</guid>
+      <description>Homebrewing 101 </description>
     </item>
     
   </channel>

@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Internet</title>
-    <link>https://theinternet.onthewifi.com/</link>
+    <link>https://jack-wolfe.com/</link>
     <description>Recent content on The Internet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Code released under the Apache 2.0 license.</copyright>
-    <lastBuildDate>Thu, 01 Mar 2018 13:41:50 +0200</lastBuildDate>
-    
-	<atom:link href="https://theinternet.onthewifi.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 07 May 2018 17:00:00 +0000</lastBuildDate><atom:link href="https://jack-wolfe.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://theinternet.onthewifi.com/about/</link>
+      <link>https://jack-wolfe.com/about/</link>
       <pubDate>Thu, 01 Mar 2018 13:41:50 +0200</pubDate>
       
-      <guid>https://theinternet.onthewifi.com/about/</guid>
+      <guid>https://jack-wolfe.com/about/</guid>
       <description>Hello and thank you for being interested in my blog! In this blog I hope to explore many different topics that I am passionate about such as smart home devices, website design, electronics, and many others.
 If you have ideas on new topics I should cover please send me an email via my contact section.
 I will slowly be adding new blog posts over the begining of 2018, please bare with me as it will be slow going.</description>
@@ -25,47 +21,109 @@ I will slowly be adding new blog posts over the begining of 2018, please bare wi
     
     <item>
       <title>Blog</title>
-      <link>https://theinternet.onthewifi.com/blog/</link>
+      <link>https://jack-wolfe.com/blog/</link>
       <pubDate>Sun, 24 May 2015 18:51:50 +0200</pubDate>
       
-      <guid>https://theinternet.onthewifi.com/blog/</guid>
+      <guid>https://jack-wolfe.com/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://theinternet.onthewifi.com/contact/</link>
+      <link>https://jack-wolfe.com/contact/</link>
       <pubDate>Sun, 24 May 2015 18:52:04 +0200</pubDate>
       
-      <guid>https://theinternet.onthewifi.com/contact/</guid>
+      <guid>https://jack-wolfe.com/contact/</guid>
       <description>Want to get in touch with me? Fill out the form below to send me a message and I will try to get back to you within 24 hours!</description>
     </item>
     
     <item>
+      <title>My Collection</title>
+      <link>https://jack-wolfe.com/post/cameras/polaroids/my-collection/</link>
+      <pubDate>Mon, 07 May 2018 17:00:00 +0000</pubDate>
+      
+      <guid>https://jack-wolfe.com/post/cameras/polaroids/my-collection/</guid>
+      <description>#Land Cameras
+##Polaroid Land 100
+##Polaroid Land 103
+##Poalroid Land 250
+##Poalroid Land 2XX
+##Polaroid Land 360
+##Acessories
+#SX-70
+##Acessories #Spectra
+##Spectra
+##Spectra Pro
+##Spectra 2
+#600 Type
+##Sun 640
+#I-Type
+##One Step 2</description>
+    </item>
+    
+    <item>
+      <title>The New One Step 2</title>
+      <link>https://jack-wolfe.com/post/cameras/polaroids/onestep-2/review/</link>
+      <pubDate>Thu, 22 Mar 2018 14:36:55 +0000</pubDate>
+      
+      <guid>https://jack-wolfe.com/post/cameras/polaroids/onestep-2/review/</guid>
+      <description>The New OneStep 2 So it has finally happened! A new Polaroid Camera!! This is an exciting time! If you are a fan of analog photos this is a tall tale sign that they are here to stay.
+My OneStep 2 Since the release of the OneStep 2 I have wanted one bably! So I finally purchased one a few weeks back. I was hopeful someone would of gifted it to me over the holidays but no luck.</description>
+    </item>
+    
+    <item>
+      <title>Homebrewing 101</title>
+      <link>https://jack-wolfe.com/post/brewing/beginners-guide/</link>
+      <pubDate>Tue, 20 Mar 2018 14:36:55 +0000</pubDate>
+      
+      <guid>https://jack-wolfe.com/post/brewing/beginners-guide/</guid>
+      <description>Homebrewing 101 </description>
+    </item>
+    
+    <item>
       <title>Polaroid Land Cameras</title>
-      <link>https://theinternet.onthewifi.com/post/cameras/polaroids/land-cameras/beggining-with-land-cameras/</link>
+      <link>https://jack-wolfe.com/post/cameras/polaroids/land-cameras/a-buyers-guide/</link>
+      <pubDate>Tue, 20 Mar 2018 14:36:55 +0000</pubDate>
+      
+      <guid>https://jack-wolfe.com/post/cameras/polaroids/land-cameras/a-buyers-guide/</guid>
+      <description>How to buy a Land Camera </description>
+    </item>
+    
+    <item>
+      <title>Polaroid Cameras</title>
+      <link>https://jack-wolfe.com/post/cameras/polaroids/polaroid-styles/</link>
       <pubDate>Mon, 05 Mar 2018 14:36:55 +0000</pubDate>
       
-      <guid>https://theinternet.onthewifi.com/post/cameras/polaroids/land-cameras/beggining-with-land-cameras/</guid>
+      <guid>https://jack-wolfe.com/post/cameras/polaroids/polaroid-styles/</guid>
+      <description>Polaroid 80 Years of Cameras Pack Film -Land Cameras 100-400 Series Integral Film Integral FIlm is very different from pack film since the positive and negative are incorperated into one photo. This eliminates the need to pull the photo apart after a minute of fixing or so. Removes all needed skill in the development cycle.
+-SX-70 -600 -Spectra Zink FIlm </description>
+    </item>
+    
+    <item>
+      <title>Polaroid Land Cameras</title>
+      <link>https://jack-wolfe.com/post/cameras/polaroids/land-cameras/beggining-with-land-cameras/</link>
+      <pubDate>Mon, 05 Mar 2018 14:36:55 +0000</pubDate>
+      
+      <guid>https://jack-wolfe.com/post/cameras/polaroids/land-cameras/beggining-with-land-cameras/</guid>
       <description>A short History of Land Cameras. So first, let me welcome you to the club! Old school Polaroid cameras are my favorite! I got my first 103 land camera in the summer of 2014 and since then I have aquired 20+ cameras. I have been taking instant film pictures as often as I can.
 Polaroid is a company that was founded in 1931 by Edwin Land, the king of instant film!</description>
     </item>
     
     <item>
       <title>The New One Step 2</title>
-      <link>https://theinternet.onthewifi.com/post/cameras/polaroids/onestep-2/beginners/</link>
+      <link>https://jack-wolfe.com/post/cameras/polaroids/onestep-2/beginners/</link>
       <pubDate>Mon, 05 Mar 2018 14:36:55 +0000</pubDate>
       
-      <guid>https://theinternet.onthewifi.com/post/cameras/polaroids/onestep-2/beginners/</guid>
+      <guid>https://jack-wolfe.com/post/cameras/polaroids/onestep-2/beginners/</guid>
       <description>Something New and Something Old. This is probably the greatest thing to happen to instant film since the Impossible Project. A new camera with new integrated features, and the same great old school look we love from the original One Step. I recently bought a One Step 2, first to support Polaroid Originals as a company and movement and secondly because it is awesome! It is great at taking photos with less waste than other instant films, since it has a built in rechargable battery.</description>
     </item>
     
     <item>
       <title>Smart Home</title>
-      <link>https://theinternet.onthewifi.com/post/smart-home/beginners-guide/smarthome-beginners/</link>
+      <link>https://jack-wolfe.com/post/smart-home/beginners-guide/smarthome-beginners/</link>
       <pubDate>Thu, 01 Mar 2018 13:02:10 +0000</pubDate>
       
-      <guid>https://theinternet.onthewifi.com/post/smart-home/beginners-guide/smarthome-beginners/</guid>
+      <guid>https://jack-wolfe.com/post/smart-home/beginners-guide/smarthome-beginners/</guid>
       <description>So if you’re reading this article you might be thinking about changing your home to a smart home. So first let’s talk about what a smart home really is.
 First a smart home is not anything like the Disney Movie Smart House, it will not attack you, it will not do things you don’t ask for and it certainly will not try to make itself human. A smart home is a house that can perform easy everyday tasks automatically or with other input.</description>
     </item>

@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beginner on The Internet</title>
-    <link>https://theinternet.onthewifi.com/categories/beginner/</link>
+    <link>https://jack-wolfe.com/categories/beginner/</link>
     <description>Recent content in Beginner on The Internet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Code released under the Apache 2.0 license.</copyright>
-    <lastBuildDate>Thu, 01 Mar 2018 13:02:10 +0000</lastBuildDate>
-    
-	<atom:link href="https://theinternet.onthewifi.com/categories/beginner/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 01 Mar 2018 13:02:10 +0000</lastBuildDate><atom:link href="https://jack-wolfe.com/categories/beginner/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Smart Home</title>
-      <link>https://theinternet.onthewifi.com/post/smart-home/beginners-guide/smarthome-beginners/</link>
+      <link>https://jack-wolfe.com/post/smart-home/beginners-guide/smarthome-beginners/</link>
       <pubDate>Thu, 01 Mar 2018 13:02:10 +0000</pubDate>
       
-      <guid>https://theinternet.onthewifi.com/post/smart-home/beginners-guide/smarthome-beginners/</guid>
+      <guid>https://jack-wolfe.com/post/smart-home/beginners-guide/smarthome-beginners/</guid>
       <description>So if you’re reading this article you might be thinking about changing your home to a smart home. So first let’s talk about what a smart home really is.
 First a smart home is not anything like the Disney Movie Smart House, it will not attack you, it will not do things you don’t ask for and it certainly will not try to make itself human. A smart home is a house that can perform easy everyday tasks automatically or with other input.</description>
     </item>
