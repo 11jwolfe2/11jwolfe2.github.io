@@ -1,149 +1,143 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://theinternet.onthewifi.com/about/</loc>
+    <loc>https://jack-wolfe.com/about/</loc>
     <lastmod>2018-03-01T13:41:50+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://theinternet.onthewifi.com/blog/</loc>
+  </url><url>
+    <loc>https://jack-wolfe.com/blog/</loc>
     <lastmod>2015-05-24T18:51:50+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://theinternet.onthewifi.com/contact/</loc>
+  </url><url>
+    <loc>https://jack-wolfe.com/contact/</loc>
     <lastmod>2015-05-24T18:52:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://theinternet.onthewifi.com/post/cameras/polaroids/land-cameras/beggining-with-land-cameras/</loc>
+  </url><url>
+    <loc>https://jack-wolfe.com/tags/600/</loc>
+    <lastmod>2018-05-07T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/categories/600/</loc>
+    <lastmod>2018-05-07T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/tags/camera/</loc>
+    <lastmod>2018-05-07T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/categories/camera/</loc>
+    <lastmod>2018-05-07T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/categories/</loc>
+    <lastmod>2018-05-07T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/tags/land-camera/</loc>
+    <lastmod>2018-05-07T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/categories/land-camera/</loc>
+    <lastmod>2018-05-07T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/post/cameras/polaroids/my-collection/</loc>
+    <lastmod>2018-05-07T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/tags/pack-film/</loc>
+    <lastmod>2018-05-07T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/categories/pack-film/</loc>
+    <lastmod>2018-05-07T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/tags/polaroid/</loc>
+    <lastmod>2018-05-07T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/categories/polaroid/</loc>
+    <lastmod>2018-05-07T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/post/</loc>
+    <lastmod>2018-05-07T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/tags/spectra/</loc>
+    <lastmod>2018-05-07T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/categories/spectra/</loc>
+    <lastmod>2018-05-07T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/tags/sx-70/</loc>
+    <lastmod>2018-05-07T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/categories/sx-70/</loc>
+    <lastmod>2018-05-07T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/tags/</loc>
+    <lastmod>2018-05-07T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/</loc>
+    <lastmod>2018-05-07T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/tags/one-step-2/</loc>
+    <lastmod>2018-03-22T14:36:55+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/categories/one-step-2/</loc>
+    <lastmod>2018-03-22T14:36:55+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/tags/review/</loc>
+    <lastmod>2018-03-22T14:36:55+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/categories/review/</loc>
+    <lastmod>2018-03-22T14:36:55+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/post/cameras/polaroids/onestep-2/review/</loc>
+    <lastmod>2018-03-22T14:36:55+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/tags/beer/</loc>
+    <lastmod>2018-03-20T14:36:55+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/categories/beer/</loc>
+    <lastmod>2018-03-20T14:36:55+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/tags/beginners/</loc>
+    <lastmod>2018-03-20T14:36:55+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/categories/beginners/</loc>
+    <lastmod>2018-03-20T14:36:55+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/tags/home-brew/</loc>
+    <lastmod>2018-03-20T14:36:55+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/categories/home-brew/</loc>
+    <lastmod>2018-03-20T14:36:55+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/post/brewing/beginners-guide/</loc>
+    <lastmod>2018-03-20T14:36:55+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/post/cameras/polaroids/land-cameras/a-buyers-guide/</loc>
+    <lastmod>2018-03-20T14:36:55+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/tags/integral-film/</loc>
     <lastmod>2018-03-05T14:36:55+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://theinternet.onthewifi.com/post/cameras/polaroids/onestep-2/beginners/</loc>
+  </url><url>
+    <loc>https://jack-wolfe.com/categories/integral-film/</loc>
     <lastmod>2018-03-05T14:36:55+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://theinternet.onthewifi.com/post/smart-home/beginners-guide/smarthome-beginners/</loc>
+  </url><url>
+    <loc>https://jack-wolfe.com/post/cameras/polaroids/polaroid-styles/</loc>
+    <lastmod>2018-03-05T14:36:55+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/post/cameras/polaroids/land-cameras/beggining-with-land-cameras/</loc>
+    <lastmod>2018-03-05T14:36:55+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/post/cameras/polaroids/onestep-2/beginners/</loc>
+    <lastmod>2018-03-05T14:36:55+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/tags/beginner/</loc>
+    <lastmod>2018-03-01T13:02:10+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/categories/beginner/</loc>
+    <lastmod>2018-03-01T13:02:10+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/tags/introduction/</loc>
+    <lastmod>2018-03-01T13:02:10+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/categories/smart-home/</loc>
+    <lastmod>2018-03-01T13:02:10+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/post/smart-home/beginners-guide/smarthome-beginners/</loc>
+    <lastmod>2018-03-01T13:02:10+00:00</lastmod>
+  </url><url>
+    <loc>https://jack-wolfe.com/tags/smarthome/</loc>
     <lastmod>2018-03-01T13:02:10+00:00</lastmod>
   </url>
-  
-  <url>
-    <loc>https://theinternet.onthewifi.com/tags/beginner/</loc>
-    <lastmod>2018-03-01T13:02:10+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://theinternet.onthewifi.com/categories/beginner/</loc>
-    <lastmod>2018-03-01T13:02:10+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://theinternet.onthewifi.com/tags/beginners/</loc>
-    <lastmod>2018-03-05T14:36:55+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://theinternet.onthewifi.com/categories/beginners/</loc>
-    <lastmod>2018-03-05T14:36:55+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://theinternet.onthewifi.com/tags/camera/</loc>
-    <lastmod>2018-03-05T14:36:55+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://theinternet.onthewifi.com/categories/camera/</loc>
-    <lastmod>2018-03-05T14:36:55+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://theinternet.onthewifi.com/categories/</loc>
-    <lastmod>2018-03-01T13:02:10+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://theinternet.onthewifi.com/tags/introduction/</loc>
-    <lastmod>2018-03-01T13:02:10+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://theinternet.onthewifi.com/tags/land-camera/</loc>
-    <lastmod>2018-03-05T14:36:55+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://theinternet.onthewifi.com/categories/land-camera/</loc>
-    <lastmod>2018-03-05T14:36:55+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://theinternet.onthewifi.com/tags/one-step-2/</loc>
-    <lastmod>2018-03-05T14:36:55+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://theinternet.onthewifi.com/categories/one-step-2/</loc>
-    <lastmod>2018-03-05T14:36:55+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://theinternet.onthewifi.com/tags/polaroid/</loc>
-    <lastmod>2018-03-05T14:36:55+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://theinternet.onthewifi.com/categories/polaroid/</loc>
-    <lastmod>2018-03-05T14:36:55+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://theinternet.onthewifi.com/post/</loc>
-    <lastmod>2018-03-05T14:36:55+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://theinternet.onthewifi.com/categories/smart-home/</loc>
-    <lastmod>2018-03-01T13:02:10+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://theinternet.onthewifi.com/tags/smarthome/</loc>
-    <lastmod>2018-03-01T13:02:10+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://theinternet.onthewifi.com/tags/</loc>
-    <lastmod>2018-03-01T13:02:10+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://theinternet.onthewifi.com/</loc>
-    <lastmod>2018-03-01T13:41:50+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
 </urlset>

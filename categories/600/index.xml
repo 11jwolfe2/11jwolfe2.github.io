@@ -1,24 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>600 on The Internet</title>
-    <link>https://theinternet.onthewifi.com/categories/600/</link>
+    <link>https://jack-wolfe.com/categories/600/</link>
     <description>Recent content in 600 on The Internet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Code released under the Apache 2.0 license.</copyright>
-    <lastBuildDate>Mon, 05 Mar 2018 14:36:55 +0000</lastBuildDate>
-    
-	<atom:link href="https://theinternet.onthewifi.com/categories/600/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Mon, 07 May 2018 17:00:00 +0000</lastBuildDate><atom:link href="https://jack-wolfe.com/categories/600/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Collection</title>
+      <link>https://jack-wolfe.com/post/cameras/polaroids/my-collection/</link>
+      <pubDate>Mon, 07 May 2018 17:00:00 +0000</pubDate>
+      
+      <guid>https://jack-wolfe.com/post/cameras/polaroids/my-collection/</guid>
+      <description>#Land Cameras
+##Polaroid Land 100
+##Polaroid Land 103
+##Poalroid Land 250
+##Poalroid Land 2XX
+##Polaroid Land 360
+##Acessories
+#SX-70
+##Acessories #Spectra
+##Spectra
+##Spectra Pro
+##Spectra 2
+#600 Type
+##Sun 640
+#I-Type
+##One Step 2</description>
+    </item>
     
     <item>
       <title>Polaroid Cameras</title>
-      <link>https://theinternet.onthewifi.com/post/cameras/polaroids/polaroid-styles/</link>
+      <link>https://jack-wolfe.com/post/cameras/polaroids/polaroid-styles/</link>
       <pubDate>Mon, 05 Mar 2018 14:36:55 +0000</pubDate>
       
-      <guid>https://theinternet.onthewifi.com/post/cameras/polaroids/polaroid-styles/</guid>
-      <description> Polaroid 80 Years of Cameras Pack Film -Land Cameras 100-400 Series Integral Film Integral FIlm is very different from pack film since the positive and negative are incorperated into one photo. This eliminates the need to pull the photo apart after a minute of fixing or so. Removes all needed skill in the development cycle.
+      <guid>https://jack-wolfe.com/post/cameras/polaroids/polaroid-styles/</guid>
+      <description>Polaroid 80 Years of Cameras Pack Film -Land Cameras 100-400 Series Integral Film Integral FIlm is very different from pack film since the positive and negative are incorperated into one photo. This eliminates the need to pull the photo apart after a minute of fixing or so. Removes all needed skill in the development cycle.
 -SX-70 -600 -Spectra Zink FIlm </description>
     </item>
     
